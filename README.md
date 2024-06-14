@@ -45,7 +45,7 @@ To run this project locally, follow these steps:
 The website is designed to be fully responsive, ensuring it looks great on a wide range of devices, including desktops, tablets, and smartphones. Media queries are used to adjust the layout and styling based on the screen size.
 
 ## Preview
-[Checkout Here]()
+[Checkout Here](https://santhoshi0708.github.io/Portfolio/)
 
 ## 🔗 Follow us
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kothapalli-santhoshi-368951254/)
